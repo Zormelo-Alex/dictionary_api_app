@@ -39,6 +39,7 @@ body{
     outline: none;
     color: white;
     border-radius: 5px;
+    cursor: pointer;
 }
 .result{
     font-size: 30px;
